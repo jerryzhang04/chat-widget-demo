@@ -545,8 +545,8 @@
             welcomeText: '',
             responseTimeText: '',
             poweredBy: {
-                text: 'Powered by n8n',
-                link: 'https://n8n.partnerlinks.io/fabimarkl'
+                text: 'Osmows Shawarma',
+                link: ''
             }
         },
         style: {
@@ -642,7 +642,9 @@
                 </button>
             </div>
            
-  
+    <div class="chat-footer">
+                <a class="chat-footer-link" href="${settings.branding.poweredBy.link}" target="_blank">${settings.branding.poweredBy.text}</a>
+            </div>
  
         </div>
     `;
