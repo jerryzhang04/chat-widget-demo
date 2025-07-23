@@ -546,7 +546,7 @@
             responseTimeText: '',
             poweredBy: {
                 text: 'Osmows Shawarma',
-                link: ''
+                link: 'https://osmows.com/'
             }
         },
         style: {
