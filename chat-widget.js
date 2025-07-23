@@ -539,16 +539,7 @@
             url: '',
             route: ''
         },
-        branding: {
-            logo: '',
-            name: '',
-            welcomeText: '',
-            responseTimeText: '',
-            poweredBy: {
-                text: 'Osmows Shawarma',
-                link: 'https://osmows.com/'
-            }
-        },
+        
         style: {
             primaryColor: '#10b981', // Green
             secondaryColor: '#059669', // Darker green
